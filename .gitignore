@@ -16,3 +16,5 @@ yarn-error.log
 /scripts/deployment-test/apps
 
 /.idea/
+/playground
+/scripts/playground/template.local
